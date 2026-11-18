@@ -1,0 +1,6 @@
+{
+  "name": "AdEarn Pro",
+  "description": "প্রিমিয়াম ইনকাম অ্যাপ — অ্যাড দেখে আয় করুন এবং বিকাশ বা নগদে উত্তোলন করুন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
